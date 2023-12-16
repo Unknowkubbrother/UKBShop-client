@@ -9,7 +9,7 @@ import './index.css'
 // @component
 import App from './App';
 // import Navbar from './layout/Navbar';
-import Dashboard from './components/dashboard/dashboard';
+import Dashboard from './components/dashboard/Dashboard';
 
 const router = createBrowserRouter([
   {
